@@ -6,21 +6,21 @@ hero:
   name: "IBM DevOps Build"
   text: "Plugins Documentation"
   image:
-    light: "/deploy-black.png"
-    dark: "/deploy-white.png"
+    light: "/build_black.png"
+    dark: "/build_white.png"
     alt: "DevOps Build"
   actions:
     - theme: brand
       text: Get started with IBM DevOps Build
-      link: https://www.ibm.com/docs/en/devops-deploy/8.1.1?topic=getting-started
+      link: https://www.ibm.com/docs/en/devops-build/7.1.0?topic=overview-devops-build
 
     - theme: alt
       text: Learn more about Plug-ins
-      link: https://www.ibm.com/docs/en/devops-deploy/8.1.1?topic=function-plug-ins
+      link: https://www.ibm.com/docs/en/devops-build/7.1.0?topic=functions-plug-ins
 
     - theme: alt
-      text: Build Your Own Plugin
-      link: https://community.ibm.com/community/user/blogs/shabaz-kowthalam/2024/11/25/creating-an-automation-plugin-for-devops-deploy
+      text: Community
+      link: https://community.ibm.com/community
 
     - theme: alt
       text: Get help
